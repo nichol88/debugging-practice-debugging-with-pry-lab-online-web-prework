@@ -15,6 +15,8 @@ def selection(num)
      "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
+   else
+     "Invalid selection."
   end
 end
 
